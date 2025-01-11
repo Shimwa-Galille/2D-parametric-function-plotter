@@ -1,4 +1,3 @@
-# 2D-parametric-function-plotter
 # 2D Parametric Function Plotter
 
 A Python-based application for plotting parametric functions in **Cartesian** and **Polar** coordinate systems. This tool provides an interactive interface to visualize mathematical functions and their characteristics, including axes, asymptotes, and more.
